@@ -105,8 +105,3 @@ QRCodeProj/
 ├── url.txt           # (Optional) File to store user-entered URL
 ```
 
-## License
-Licensed under ISC. See `package.json` for details.
-```
-
-Copy the entire block above and paste it into your `README.md` file in the `QRCodeProj` directory. It’s all set to work on GitHub.
